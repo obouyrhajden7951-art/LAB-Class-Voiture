@@ -8,3 +8,6 @@
   # Étape 3 : Ajouter le constructeur par défaut
     Pourquoi est-il important d'initialiser les attributs dans le constructeur ?
       Il est important d'initialiser les attributs dans le constructeur pour que l'objet soit valide dès sa création, et pour éviter NullPointerException .
+  # Étape 4 : Ajouter le constructeur paramétré
+    Que se passe-t-il si vous ne définissez pas de constructeur par défaut et que vous essayez de créer un objet avec new Voiture() ?
+      le programme ne compile pas.
