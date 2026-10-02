@@ -4,4 +4,4 @@
       Le nom de la classe doit correspondre au nom du fichier pour que le compilateur et la JVM puissent retrouver facilement la classe c'est le compilateur qui vérifie la           règle (il refuse de compiler si les noms ne correspondent pas), et c'est ensuite la JVM qui s'appuie sur ce nom pour localiser le fichier `.class` à charger.
   # Étape 2 : Déclarer les attributs privés
     Que se passe-t-il si vous oubliez le mot-clé private ?
-      Si on oublie `private`, l'attribut devient accessible depuis les autres classes du même package, donc on perd l'encapsulation, et on ne peut plus contrôler les valeurs.
+      Si on oublie private , l'attribut devient accessible depuis les autres classes du même package, donc on perd l'encapsulation, et on ne peut plus contrôler les valeurs.
