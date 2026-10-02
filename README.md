@@ -5,3 +5,6 @@
   # Étape 2 : Déclarer les attributs privés
     Que se passe-t-il si vous oubliez le mot-clé private ?
       Si on oublie private , l'attribut devient accessible depuis les autres classes du même package, donc on perd l'encapsulation, et on ne peut plus contrôler les valeurs.
+  # Étape 3 : Ajouter le constructeur par défaut
+    Pourquoi est-il important d'initialiser les attributs dans le constructeur ?
+      Il est important d'initialiser les attributs dans le constructeur pour que l'objet soit valide dès sa création, et pour éviter NullPointerException .
