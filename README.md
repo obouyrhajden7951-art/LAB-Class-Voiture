@@ -11,3 +11,6 @@
   # Étape 4 : Ajouter le constructeur paramétré
     Que se passe-t-il si vous ne définissez pas de constructeur par défaut et que vous essayez de créer un objet avec new Voiture() ?
       le programme ne compile pas.
+
+<img width="840" height="146" alt="image" src="https://github.com/user-attachments/assets/66820cf2-dd6f-4846-bb85-6fb86f25fd9a" />
+
